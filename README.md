@@ -3,11 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ricardorv/">
+  <a href="https://www.linkedin.com/in/ricardorv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Ricardo_Roguez">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Front end Developer width="30"> from Spain.
+I am a Front end Developer from Spain.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -28,7 +28,10 @@ I am a Front end Developer width="30"> from Spain.
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardorv/)
+- :mailbox:How to reach me
+  <a href="mailto:ricardo.rv@outlook.com" style="margin-top: 50px">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" alt="Email Badge"  height="10"/>
+  </a>
 
 ---
 
