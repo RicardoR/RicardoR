@@ -22,15 +22,13 @@
 
 I am a Front end Developer from Spain.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Front end Engineer using HTML5, CSS3 and Javascript + Angular as main framework.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read tech articles.
+- :man_student: Always learning new things (Now.. React path)
 
 - :mailbox:How to reach me
   <a href="mailto:ricardo.rv@outlook.com" style="margin-top: 50px">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" alt="Email Badge"  height="10"/>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" alt="Email Badge"  height="20"/>
   </a>
 
 ---
