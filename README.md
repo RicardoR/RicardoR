@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Front end Developer from Spain with 8 years of experience (5 on Angular).
+I am a Front end Developer from Spain with more than 9 years of experience (6 on Angular).
 
 - :telescope: I’m working as a Front end Engineer using HTML5, CSS3 and Javascript + Angular as main framework.
 
