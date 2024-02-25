@@ -24,7 +24,7 @@ I am a Front end Developer from Spain with more than 9 years of experience (6 on
 
 - :telescope: I’m working as a Front end Engineer using HTML5, CSS3 and Javascript + Angular as main framework.
 
-- :man_student: Always learning new things (Now.. React path)
+- :man_student: Always learning new things (Now.. .Net path)
 
 - :mailbox:How to reach me
   <a href="mailto:ricardo.rv@outlook.com" style="margin-top: 50px">
